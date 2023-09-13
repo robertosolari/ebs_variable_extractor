@@ -10,7 +10,7 @@ Running:
 
 _Enter your Elastic Beanstalk application name:_
 
-The name of the environment displayed on Beanstalk **MY-APPLICATION**
+The name of the environment displayed on Beanstalk: **MY-APPLICATION**
 
 cheers
 
