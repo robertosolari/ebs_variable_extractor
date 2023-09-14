@@ -1,6 +1,8 @@
 # ebs_variable_extractor
 Extract environments variables from Elastic Beanstalk
 
+**Of course, you have to configure AWS CLI first**  ça va sans dire
+
 Installation:
 
 `python -m pip install -r requirements.txt`
